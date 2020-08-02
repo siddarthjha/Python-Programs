@@ -1,3 +1,6 @@
+"""
+Database(sqlite3) connectivity and query execution.
+"""
 import sqlite3
 print('I am created for Database purpose to understand all functions of sqlite to Mr.Jha :)')
 c = sqlite3.connect('python db')
