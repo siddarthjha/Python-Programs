@@ -1,10 +1,11 @@
 '''
+Basic string manipulation
+'''
 # Calendar month display
 import calendar
 y = int(input("Enter a year"))
 m = int(input('Enter a month'))
 print(calendar.month(y, m))
- '''
 s = 'hello i am siddarth'
 print(s.capitalize())
 print(s.count('s', 0, 9))
