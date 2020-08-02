@@ -1,3 +1,7 @@
+"""
+Try except finally keywords usage.
+Exception handling
+"""
 print('Yeah I am created for the sole purpose of understanding Exceptions to Mr.Jha')
 try:
     a = int(input('Enter a number for a'))
