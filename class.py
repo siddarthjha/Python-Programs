@@ -1,3 +1,6 @@
+"""
+Understanding class and object basics.
+"""
 print('I am created to make understand the OOPS concept to Mr.Jha')
 class Emp:
 
