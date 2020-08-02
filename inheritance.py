@@ -1,3 +1,6 @@
+"""
+Concept of Inheritance.
+"""
 print('I am created to make understand the concept of inheritance ')
 
 
