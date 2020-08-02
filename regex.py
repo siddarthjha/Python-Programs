@@ -1,3 +1,6 @@
+"""
+Basic functions of regex.
+"""
 import re
 print('I am created to understand regex functions to Mr. Jha')
 s = 'Hey I am Siddarth. Hey I am kumar. Hey I am Jha'
