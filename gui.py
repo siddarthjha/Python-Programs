@@ -1,3 +1,6 @@
+"""
+basic Button creation and manipulation
+"""
 import tkinter as tk
 print('I have made 4 buttons for Mr.Jha')
 p = tk.Tk()
