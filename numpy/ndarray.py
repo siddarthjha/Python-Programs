@@ -1,3 +1,7 @@
+"""
+All the numpy functions related n-dimension array
+"""
+
 import numpy as np
 import numpy.matlib as npm
 import matplotlib.pyplot as plt
