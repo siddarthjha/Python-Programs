@@ -1,4 +1,9 @@
 """
+Uncomment and execute there may be similar variables in use.
+Basics of python
+"""
+
+"""
 a = 10
 b = 1.2334
 c = 'siddarth'
@@ -6,7 +11,7 @@ x = y = z = a
 print(a, b, c, z, x, y)
 d, e, f=1, 2, 3
 print(d, e, f)
-tuple = ('hello', 12, 'motherfucker')
+tuple = ('hello', 12, 'hahaha')
 tuple
 print(tuple)
 print(tuple[0:2])
