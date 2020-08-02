@@ -1,3 +1,7 @@
+"""
+Please uncomment and execute as there may be use of similar variables.
+List Set Tuple Dictionary
+"""
 # List
 """
 l = ['Siddarth', 40, 'CSE']
