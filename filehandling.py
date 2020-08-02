@@ -1,3 +1,6 @@
+"""
+Basic file manipulation functions.
+"""
 print('The file handling things are there here.......')
 file = open('file.txt', 'r')
 print(file.tell())
