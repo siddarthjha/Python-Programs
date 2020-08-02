@@ -1,3 +1,7 @@
+"""
+A Basic login page using tkinter.
+"""
+
 import tkinter as tk
 print('I am a kind of user login created by Mr.Jha')
 p = tk.Tk()
