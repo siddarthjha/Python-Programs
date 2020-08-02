@@ -1,3 +1,6 @@
+"""
+Basic numpy functions.
+"""
 import numpy as np
 import math
 print('***I was created for some often used numpy functions purpose to understand Mr.Jha*** ')
@@ -26,11 +29,5 @@ print('Output array for ceil', np.ceil(e))
 print('Same array output for floor', np.floor(e))
 print('Same array output for fix', np.fix(e))
 print('Same array output for rint', np.rint(e))
-"""
-import flask
-import django
-import sklearn
-import pandas
-import scipy
-"""
+
 
