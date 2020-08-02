@@ -1,3 +1,6 @@
+"""
+Functions and their manipulation.
+"""
 print('I was created for Functions,built-in Functions and lambda Functions by Mr.Jha')
 
 
