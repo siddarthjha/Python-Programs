@@ -1,3 +1,6 @@
+"""
+Module
+"""
 print('I am created for the purpose to make understand the modules concept to Mr.Jha')
 from functions import func
 func('sidd')
