@@ -16,3 +16,12 @@ Some random Python programs
 10. [Modules](https://github.com/siddarthjha/Python-Programs/blob/master/modules.py)
 11. [Regex](https://github.com/siddarthjha/Python-Programs/blob/master/regex.py)
 
+
+## How to Contribute
+
+This is an open project and contribution in all forms are welcomed.
+Please follow these [Contribution Guidelines](CONTRIBUTING.md)
+
+## Code of Conduct
+
+Adhere to the GitHub specified community [code](CODE_OF_CONDUCT.md).
