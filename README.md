@@ -7,14 +7,13 @@ Some random Python programs
 1. [Tkinter](Tkinter)
 2. [Numpy](numpy)
 3. [Pandas](pandas)
-4. [Database](database.py)
-5. [Exception](exception.py)
-6. [File Handling](filehandling.py)
-7. [Functions](functions.py)
-8. [Inheritance](inheritance.py)
-9. [OOPS](oops.py)
-10. [Modules](modules.py)
-11. [Regex](regex.py)
+4. [Database](07_database.py)
+5. [Exception](12_exception.py)
+6. [File Handling](09_filehandling.py)
+7. [Functions](04_functions.py)
+8. [Inheritance](06_inheritance.py)
+9. [Modules](05_modules.py)
+10. [Regex](13_regex.py)
 
 
 ## How to Contribute
